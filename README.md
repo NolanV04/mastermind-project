@@ -1,10 +1,7 @@
-# <Guess or Die....>
-A simple guessing game of code vocab we have learned in our first three weeks at GA.
 
-# Screenshot
+# Guess or die... are you a mastermind?
+A simple guessing game I made to make my friends mad. There is no real way of knowing the code word unless you know how to use your developer brain.
 
-<img src="url to your image on imgur">
-<img src="url to your image on imgur">
 
 # Technologies Used
 
@@ -14,8 +11,6 @@ A simple guessing game of code vocab we have learned in our first three weeks at
 
 # Getting Started
 
-[Click to View Project Planning](your Trello url here)
-[Click to Play Connect Four!](your deployment url here)
 
 # Next Steps
 
