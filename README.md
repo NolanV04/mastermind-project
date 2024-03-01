@@ -9,8 +9,6 @@ A simple guessing game I made to make my friends mad. There is no real way of kn
 - HTML
 - CSS
 
-# Getting Started
-
 
 # Next Steps
 
