@@ -1,10 +1,6 @@
-# <Guess or Die....>
-A simple guessing game of code vocab we have learned in our first three weeks at GA.
+# Guess or die... Are you a mastermind?
 
-# Screenshot
-
-<img src="url to your image on imgur">
-<img src="url to your image on imgur">
+A simple guessing game made to make my friends mad. Its supposed to be hard. The only real way to win is to know to open the console, to find the answer.
 
 # Technologies Used
 
@@ -12,11 +8,11 @@ A simple guessing game of code vocab we have learned in our first three weeks at
 - HTML
 - CSS
 
+
 # Getting Started
 
-[Click to View Project Planning](your Trello url here)
-[Click to Play Connect Four!](your deployment url here)
+https://nolanv04.github.io/mastermind-project/
 
 # Next Steps
 
-- Creating a bomb image that after each guess, changes, and then explodes on max guesses reached.
+- Creating a bomb image that after each guess, changes, and then expldoes after the max number of wrong guesses have been entered.
